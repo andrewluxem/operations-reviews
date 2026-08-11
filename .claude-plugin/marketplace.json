@@ -1,0 +1,23 @@
+{
+  "name": "operations-reviews",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Builds a recurring operations review packet with measures, exceptions, controls, and actions. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "operations-reviews",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Builds a recurring operations review packet with measures, exceptions, controls, and actions. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "operations-review",
+        "operating-rhythm"
+      ]
+    }
+  ]
+}
